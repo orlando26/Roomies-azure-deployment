@@ -1,0 +1,9 @@
+127.0.0.1 - - [25/Mar/2016:14:42:25 -0600] "GET / HTTP/1.1" 200 4778
+0:0:0:0:0:0:0:1 - - [25/Mar/2016:14:42:27 -0600] "GET /Roomies/ HTTP/1.1" 200 4866
+0:0:0:0:0:0:0:1 - - [25/Mar/2016:14:42:27 -0600] "GET /Roomies/javax.faces.resource/mobile/jquery-mobile-icons.css.xhtml?ln=primefaces&v=5.3 HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [25/Mar/2016:14:42:27 -0600] "GET /Roomies/javax.faces.resource/mobile/jquery-mobile-structure.css.xhtml?ln=primefaces&v=5.3 HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [25/Mar/2016:14:42:27 -0600] "GET /Roomies/javax.faces.resource/mobile/primefaces-mobile.css.xhtml?ln=primefaces&v=5.3 HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [25/Mar/2016:14:42:27 -0600] "GET /Roomies/javax.faces.resource/primefaces-mobile.js.xhtml?ln=primefaces&v=5.3 HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [25/Mar/2016:14:42:27 -0600] "GET /Roomies/javax.faces.resource/mobile/jquery-mobile.js.xhtml?ln=primefaces&v=5.3 HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [25/Mar/2016:14:42:27 -0600] "GET /Roomies/javax.faces.resource/jquery/jquery.js.xhtml?ln=primefaces&v=5.3 HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [25/Mar/2016:14:42:28 -0600] "GET /Roomies/javax.faces.resource/images/ajax-loader.gif HTTP/1.1" 404 1106
